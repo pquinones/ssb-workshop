@@ -1,0 +1,11 @@
+{
+  "id" : "96b8e9f2c96b4407960abe954d5f599d",
+  "name" : "dh-kudu",
+  "type" : "catalog",
+  "properties" : {
+    "table_filters" : [ ],
+    "catalog_type" : "kudu",
+    "kudu.masters" : "hol-kudu-demo-master10.hol-demo.z20f-vg26.cloudera.site,hol-kudu-demo-master20.hol-demo.z20f-vg26.cloudera.site,hol-kudu-demo-master30.hol-demo.z20f-vg26.cloudera.site"
+  },
+  "custom_truststore" : false
+}

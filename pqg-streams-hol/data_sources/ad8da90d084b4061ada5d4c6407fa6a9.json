@@ -1,0 +1,14 @@
+{
+  "id" : "ad8da90d084b4061ada5d4c6407fa6a9",
+  "name" : "dh-kafka",
+  "type" : "kafka",
+  "properties" : {
+    "brokers" : "hol-kafka-demo-corebroker2.hol-demo.z20f-vg26.cloudera.site:9093,hol-kafka-demo-corebroker0.hol-demo.z20f-vg26.cloudera.site:9093,hol-kafka-demo-corebroker1.hol-demo.z20f-vg26.cloudera.site:9093",
+    "protocol" : "sasl",
+    "mechanism" : "PLAIN",
+    "username" : "user097",
+    "password" : "G0yvxvdms5srhyKF@",
+    "ssl.truststore.location" : "/var/lib/cloudera-scm-agent/agent-cert/cm-auto-global_truststore.jks"
+  },
+  "custom_truststore" : false
+}

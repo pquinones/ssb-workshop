@@ -1,0 +1,13 @@
+{
+  "id" : "5a53b08d27ee4e5bb5872b1548e70089",
+  "name" : "dh-schreg",
+  "type" : "catalog",
+  "properties" : {
+    "table_filters" : [ ],
+    "catalog_type" : "registry",
+    "kafka.provider.id" : "ad8da90d084b4061ada5d4c6407fa6a9",
+    "registry.address" : "https://hol-kafka-demo-master0.hol-demo.z20f-vg26.cloudera.site:7790/api/v1",
+    "registry.ssl.enabled" : true
+  },
+  "custom_truststore" : false
+}
